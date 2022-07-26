@@ -15,7 +15,7 @@ alias k3dcc='k3d cluster create'
 alias k3dcd='k3d cluster delete'
 alias k3dce='k3d cluster edit'
 alias k3dcl='k3d cluster list'
-alias k3ccs='k3d cluster start'
+alias k3dcs='k3d cluster start'
 alias k3dcp='k3d cluster stop'
 
 # k3d config aliases
